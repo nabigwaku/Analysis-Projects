@@ -1,5 +1,7 @@
 # Sales and Repayment Analysis
 
+## Introduction
+
 This analysis aims to explore and understand the trends and patterns in sales and repayments. The objectives are:
 
   * To identify key factors affecting sales and repayments.
